@@ -1,0 +1,14 @@
+.tic-tac {
+  width: 160px;
+  height: 160px;
+  /* border: 2px solid black; */
+  margin: 50px auto;
+}
+
+.tt-grid {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  float: left;
+  box-sizing: border-box;
+}
